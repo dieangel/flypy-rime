@@ -9,13 +9,15 @@ patch:
     color_scheme: dark_temple
     horizontal: false
     inline_preedit: true
-    corner_radius: 0
+    corner_radius: 30
     font_face: "Microsoft YaHei Mono"
-    font_point: 12
+    font_point: 10
   app_options:
     gvim.exe:
       ascii_mode: true
     vim.exe:
       ascii_mode: true
     totalcmd.exe:
+      ascii_mode: true
+    securecrt.exe:
       ascii_mode: true
